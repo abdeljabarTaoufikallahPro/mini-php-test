@@ -8,9 +8,9 @@ NB: Authentication is optional
 
 Language required: PHP
 
-Framework: you could use any framework of your choice: preferably [symfony](https://symfony.com/) or [laravel](https://laravel.com/).
+Framework: you could use any framework of your choice: preferably [Symfony](https://symfony.com/) or [Laravel](https://laravel.com/).
 
-Recommended: [API Platform](https://api-platform.com/)
+Recommended: [API Platform](https://api-platform.com/) with Symfony.
 
 ## The main entities:
 
