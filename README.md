@@ -50,7 +50,6 @@ Recommended: [API Platform](https://api-platform.com/)
 | status          | varchar                                 |
 | created_at      | datetime                                |
 | updated_at      | datetime                                |
-| components      | array of Component [ManyToMany]         |
 
 ### Component
 
